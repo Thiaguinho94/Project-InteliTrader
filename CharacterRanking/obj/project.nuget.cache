@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "o25KuhlBcbZwyu7eh02vPwQSlVAzb3z5R3RJnK/s6XLVAxbpMdAIrjZtA6oRtA16cPh1AoZ9N9HyCerfp6ctFQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programas\\Project InteliTrader\\CharacterRanking\\CharacterRanking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thiago Azevedo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\Thiago Azevedo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\Thiago Azevedo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\Thiago Azevedo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

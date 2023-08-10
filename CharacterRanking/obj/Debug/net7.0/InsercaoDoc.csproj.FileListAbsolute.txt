@@ -1,0 +1,15 @@
+D:\Programas\InsercaoDoc\bin\Debug\net7.0\InsercaoDoc.exe
+D:\Programas\InsercaoDoc\bin\Debug\net7.0\InsercaoDoc.deps.json
+D:\Programas\InsercaoDoc\bin\Debug\net7.0\InsercaoDoc.runtimeconfig.json
+D:\Programas\InsercaoDoc\bin\Debug\net7.0\InsercaoDoc.dll
+D:\Programas\InsercaoDoc\bin\Debug\net7.0\InsercaoDoc.pdb
+D:\Programas\InsercaoDoc\obj\Debug\net7.0\InsercaoDoc.csproj.AssemblyReference.cache
+D:\Programas\InsercaoDoc\obj\Debug\net7.0\InsercaoDoc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas\InsercaoDoc\obj\Debug\net7.0\InsercaoDoc.AssemblyInfoInputs.cache
+D:\Programas\InsercaoDoc\obj\Debug\net7.0\InsercaoDoc.AssemblyInfo.cs
+D:\Programas\InsercaoDoc\obj\Debug\net7.0\InsercaoDoc.csproj.CoreCompileInputs.cache
+D:\Programas\InsercaoDoc\obj\Debug\net7.0\InsercaoDoc.dll
+D:\Programas\InsercaoDoc\obj\Debug\net7.0\refint\InsercaoDoc.dll
+D:\Programas\InsercaoDoc\obj\Debug\net7.0\InsercaoDoc.pdb
+D:\Programas\InsercaoDoc\obj\Debug\net7.0\InsercaoDoc.genruntimeconfig.cache
+D:\Programas\InsercaoDoc\obj\Debug\net7.0\ref\InsercaoDoc.dll

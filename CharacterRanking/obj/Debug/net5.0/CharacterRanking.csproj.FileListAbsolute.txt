@@ -1,0 +1,32 @@
+D:\Programas\InsercaoDoc\obj\Debug\net5.0\CharacterRanking.csproj.AssemblyReference.cache
+D:\Programas\InsercaoDoc\obj\Debug\net5.0\CharacterRanking.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas\InsercaoDoc\obj\Debug\net5.0\CharacterRanking.AssemblyInfoInputs.cache
+D:\Programas\InsercaoDoc\obj\Debug\net5.0\CharacterRanking.AssemblyInfo.cs
+D:\Programas\InsercaoDoc\obj\Debug\net5.0\CharacterRanking.csproj.CoreCompileInputs.cache
+D:\Programas\InsercaoDoc\bin\Debug\net5.0\CharacterRanking.exe
+D:\Programas\InsercaoDoc\bin\Debug\net5.0\CharacterRanking.deps.json
+D:\Programas\InsercaoDoc\bin\Debug\net5.0\CharacterRanking.runtimeconfig.json
+D:\Programas\InsercaoDoc\bin\Debug\net5.0\CharacterRanking.runtimeconfig.dev.json
+D:\Programas\InsercaoDoc\bin\Debug\net5.0\CharacterRanking.dll
+D:\Programas\InsercaoDoc\bin\Debug\net5.0\CharacterRanking.pdb
+D:\Programas\InsercaoDoc\obj\Debug\net5.0\CharacterRanking.dll
+D:\Programas\InsercaoDoc\obj\Debug\net5.0\refint\CharacterRanking.dll
+D:\Programas\InsercaoDoc\obj\Debug\net5.0\CharacterRanking.pdb
+D:\Programas\InsercaoDoc\obj\Debug\net5.0\CharacterRanking.genruntimeconfig.cache
+D:\Programas\InsercaoDoc\obj\Debug\net5.0\ref\CharacterRanking.dll
+D:\Programas\Project InteliTrader\CharacterRanking\obj\Debug\net5.0\CharacterRanking.csproj.AssemblyReference.cache
+D:\Programas\Project InteliTrader\CharacterRanking\obj\Debug\net5.0\CharacterRanking.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas\Project InteliTrader\CharacterRanking\obj\Debug\net5.0\CharacterRanking.AssemblyInfoInputs.cache
+D:\Programas\Project InteliTrader\CharacterRanking\obj\Debug\net5.0\CharacterRanking.AssemblyInfo.cs
+D:\Programas\Project InteliTrader\CharacterRanking\obj\Debug\net5.0\CharacterRanking.csproj.CoreCompileInputs.cache
+D:\Programas\Project InteliTrader\CharacterRanking\obj\Debug\net5.0\CharacterRanking.dll
+D:\Programas\Project InteliTrader\CharacterRanking\obj\Debug\net5.0\refint\CharacterRanking.dll
+D:\Programas\Project InteliTrader\CharacterRanking\obj\Debug\net5.0\CharacterRanking.pdb
+D:\Programas\Project InteliTrader\CharacterRanking\bin\Debug\net5.0\CharacterRanking.exe
+D:\Programas\Project InteliTrader\CharacterRanking\bin\Debug\net5.0\CharacterRanking.deps.json
+D:\Programas\Project InteliTrader\CharacterRanking\bin\Debug\net5.0\CharacterRanking.runtimeconfig.json
+D:\Programas\Project InteliTrader\CharacterRanking\bin\Debug\net5.0\CharacterRanking.runtimeconfig.dev.json
+D:\Programas\Project InteliTrader\CharacterRanking\bin\Debug\net5.0\CharacterRanking.dll
+D:\Programas\Project InteliTrader\CharacterRanking\bin\Debug\net5.0\CharacterRanking.pdb
+D:\Programas\Project InteliTrader\CharacterRanking\obj\Debug\net5.0\CharacterRanking.genruntimeconfig.cache
+D:\Programas\Project InteliTrader\CharacterRanking\obj\Debug\net5.0\ref\CharacterRanking.dll

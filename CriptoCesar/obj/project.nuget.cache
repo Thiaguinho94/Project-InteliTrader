@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zd8G89XFaMWlmvpt3U+QxlVj3SVX9gNmVfzUose/ecIA//uM3p0PDkHLd5S5kJ+U7N/fmU0I0sSpBHQzULeCWQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programas\\Project InteliTrader\\CriptoCesar\\CriptoCesar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thiago Azevedo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\Thiago Azevedo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\Thiago Azevedo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\Thiago Azevedo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

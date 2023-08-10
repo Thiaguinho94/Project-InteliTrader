@@ -1,0 +1,15 @@
+D:\Programas\Project InteliTrader\CriptoCesar\bin\Debug\net6.0\CriptoCesar.exe
+D:\Programas\Project InteliTrader\CriptoCesar\bin\Debug\net6.0\CriptoCesar.deps.json
+D:\Programas\Project InteliTrader\CriptoCesar\bin\Debug\net6.0\CriptoCesar.runtimeconfig.json
+D:\Programas\Project InteliTrader\CriptoCesar\bin\Debug\net6.0\CriptoCesar.dll
+D:\Programas\Project InteliTrader\CriptoCesar\bin\Debug\net6.0\CriptoCesar.pdb
+D:\Programas\Project InteliTrader\CriptoCesar\obj\Debug\net6.0\CriptoCesar.csproj.AssemblyReference.cache
+D:\Programas\Project InteliTrader\CriptoCesar\obj\Debug\net6.0\CriptoCesar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas\Project InteliTrader\CriptoCesar\obj\Debug\net6.0\CriptoCesar.AssemblyInfoInputs.cache
+D:\Programas\Project InteliTrader\CriptoCesar\obj\Debug\net6.0\CriptoCesar.AssemblyInfo.cs
+D:\Programas\Project InteliTrader\CriptoCesar\obj\Debug\net6.0\CriptoCesar.csproj.CoreCompileInputs.cache
+D:\Programas\Project InteliTrader\CriptoCesar\obj\Debug\net6.0\CriptoCesar.dll
+D:\Programas\Project InteliTrader\CriptoCesar\obj\Debug\net6.0\refint\CriptoCesar.dll
+D:\Programas\Project InteliTrader\CriptoCesar\obj\Debug\net6.0\CriptoCesar.pdb
+D:\Programas\Project InteliTrader\CriptoCesar\obj\Debug\net6.0\CriptoCesar.genruntimeconfig.cache
+D:\Programas\Project InteliTrader\CriptoCesar\obj\Debug\net6.0\ref\CriptoCesar.dll
